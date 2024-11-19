@@ -40,4 +40,4 @@ Just start jupyterlab in the virtual env: `jupyter lab`.
 
 To add changes back to the upstream repo, first switch to a new branch (`git checkout -b <name>`).
 Make your commits (`git commit -m <message>`) and then push to your remote (`git push`).
-Then setup a pull request on GitHub.
+Then setup a pull request on GitHub. 
