@@ -11,6 +11,9 @@ scipy = "*"
 scikit-learn = "*"
 matplotlib = "*"
 kaggle = "*"
+plotly = "*"
+seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
